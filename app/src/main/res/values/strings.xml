@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SongsDemo</string>
+    <string name="collection">Collection :</string>
+    <string name="track">Track :</string>
+    <string name="release">Release date :</string>
+    <string name="genre">Genre :</string>
+</resources>
